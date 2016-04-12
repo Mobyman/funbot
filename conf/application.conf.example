@@ -1,0 +1,16 @@
+application.secret="%APPLICATION_SECRET%"
+application.langs="ru"
+
+logger.root=ERROR
+logger.play=INFO
+logger.application=DEBUG
+
+dbplugin = disabled
+evolutionplugin = disabled
+ehcacheplugin = disabled
+
+mongodb.default.db = "funbot"
+
+analytic.token = "000000"
+
+telegram.adminid = 0
